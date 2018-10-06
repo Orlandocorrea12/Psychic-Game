@@ -1,0 +1,32 @@
+h1{
+    font-weight: bolder;
+    font-size: 55px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: monospace;
+
+}
+body{
+    background: url(../images/pexels-photo-1169754\ \(1\).jpeg);
+    font-family: monospace;
+}
+.white{
+    font-size: 30px;
+}
+#wins{
+    font-size: 30px;
+}
+#losses{
+    font-size: 30px;
+}
+#guesses{
+    font-size: 30px;
+}
+#remGuesses{
+    font-size: 30px;
+}
+.border{
+    background: #ffffff;
+    margin-top: 100px;
+}
+
